@@ -1,0 +1,3 @@
+C:/Users/Quoc Trung/CLionProjects/Bai_thi_QTrung/cmake-build-debug/CMakeFiles/Bai_thi_QTrung.dir
+C:/Users/Quoc Trung/CLionProjects/Bai_thi_QTrung/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Quoc Trung/CLionProjects/Bai_thi_QTrung/cmake-build-debug/CMakeFiles/rebuild_cache.dir
